@@ -3,6 +3,7 @@
   "author": "Mauricio Robinson",
   "description": "Learning how to manage npm packages with Nodejs",
   "license": "MIT",
+  "version": "0.0.1",
   "keywords": [
     "freecodecamp",
     "managing",
