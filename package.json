@@ -1,7 +1,13 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Mauricio Robinson",
-  "description": "Learn how to manage npm packages with Nodejs",
+  "description": "Learning how to manage npm packages with Nodejs",
+  "keywords": [
+    "freecodecamp",
+    "managing",
+    "npm",
+    "nodejs"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
