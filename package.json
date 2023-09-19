@@ -2,6 +2,7 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Mauricio Robinson",
   "description": "Learning how to manage npm packages with Nodejs",
+  "license": "MIT",
   "keywords": [
     "freecodecamp",
     "managing",
